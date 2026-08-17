@@ -1,7 +1,19 @@
 # 👋 Hey, I'm Varshith Kummarikunta
 
 <p align="center">
-  <b>MERN Stack Developer • AI Enthusiast • Full-Stack Builder</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;AI+Enthusiast;Full-Stack+Builder;Real-Time+Web+Developer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Varshith-kummarikunta">
+    <img src="https://img.shields.io/github/followers/Varshith-kummarikunta?label=Followers&style=flat-square&logo=github" />
+  </a>
+  <a href="https://github.com/Varshith-kummarikunta?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-7-58A6FF?style=flat-square&logo=github" />
+  </a>
+  <a href="https://varshith-kummarikunta.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=vercel" />
+  </a>
 </p>
 
 <p align="center">
@@ -10,247 +22,231 @@
 
 ---
 
-```js
-class Varshith {
-    constructor() {
-        this.role = "MERN Stack Developer";
+## 🧑‍💻 About Me
 
-        this.stack = [
-            "JavaScript",
-            "React",
-            "Node.js",
-            "Express",
-            "MongoDB"
-        ];
+I'm a **MERN Stack Developer** passionate about turning ideas into practical, scalable applications.
 
-        this.superpowers = [
-            "REST APIs",
-            "Real-Time Applications",
-            "AI / LLM Integration",
-            "Chrome Extensions"
-        ];
+I enjoy working across the full stack — from crafting responsive React interfaces to building REST APIs, authentication systems, database architectures, real-time applications, and AI-powered features.
 
-        this.currentlyBuilding = [
-            "AI-powered applications",
-            "Real-time web experiences",
-            "Scalable full-stack projects"
-        ];
+### 🚀 Currently focused on
 
-        this.mindset = "Learn → Build → Break → Fix → Ship 🚀";
-    }
+* ⚛️ Advanced React & modern frontend architecture
+* ⚙️ Scalable Node.js backend development
+* 🤖 AI / LLM-powered applications
+* ⚡ Real-time web applications
+* 🧩 Chrome Extensions & browser APIs
+* 🏗️ System Design & DSA
 
-    getFunFact() {
-        return "I turn random ideas into GitHub repositories 😄";
-    }
-}
-
-const developer = new Varshith();
-console.log(developer.getFunFact());
-```
+> **Learn → Build → Break → Fix → Ship 🚀**
 
 ---
 
-## 🧠 About Me
+## ⚡ My Tech Universe
 
-I'm a **MERN Stack Developer** who enjoys turning ideas into practical, production-ready applications.
+<table>
+<tr>
+<td valign="top" width="50%">
 
-I work across the full stack — from building responsive React interfaces to designing REST APIs, authentication systems, database architectures, real-time communication, and AI-powered features.
+### 🎨 Frontend
 
-I'm especially interested in **AI/LLM applications, real-time systems, browser extensions, and modern web development**.
+* React.js
+* JavaScript
+* Redux Toolkit
+* Tailwind CSS
+* Vite
+* Motion
+* React Three Fiber
 
----
+</td>
+<td valign="top" width="50%">
 
-## ⚡ What I Build
+### ⚙️ Backend
 
-```text
-🎨 Frontend        → React.js • JavaScript • Redux Toolkit • Tailwind CSS
-⚙️ Backend         → Node.js • Express.js • REST APIs • JWT
-🗄️ Database        → MongoDB • Mongoose • SQL
-⚡ Real-Time       → Socket.IO • WebSockets
-🤖 AI              → Groq AI • LLMs • Prompt Engineering
-🧩 Browser         → Chrome Extensions • Manifest V3
-☁️ Cloud            → Vercel • Render • Railway • MongoDB Atlas
-🛠️ Tools           → Git • GitHub • Postman • VS Code
-```
+* Node.js
+* Express.js
+* REST APIs
+* JWT Authentication
+* bcrypt
+* WebSockets
+* Socket.IO
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 🗄️ Data & Cloud
+
+* MongoDB
+* Mongoose
+* SQL
+* MongoDB Atlas
+* Vercel
+* Render
+* Railway
+* Cloudinary
+
+</td>
+<td valign="top">
+
+### 🤖 AI & Browser
+
+* Groq AI
+* LLM Integration
+* Prompt Engineering
+* PDF Parsing
+* Chrome Extensions
+* Manifest V3
+* Chrome Storage API
+* Runtime Messaging
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌌 Beyond Horizon
+### 🌌 Beyond Horizon
 
-> A cinematic, data-driven portfolio experience designed to push the boundaries of a traditional developer portfolio.
+**A cinematic developer portfolio built to push beyond the traditional portfolio experience.**
 
-**Built with**
+`React` `JavaScript` `Motion` `React Three Fiber`
 
-`JavaScript` `React` `Motion` `React Three Fiber`
+**Highlights**
 
-### Highlights
-
-* 🎬 Cinematic portfolio experience
-* 🌌 Optional 3D hero experience
+* 🎬 Cinematic interactive experience
+* 🌌 Optional 3D hero scene
 * ⚡ High-performance animations
-* 📱 Responsive design
-* ♿ Accessible UI
-* 🎨 Modern interactive sections
-* 🚀 Performance-focused architecture
+* 📱 Fully responsive
+* ♿ Accessibility-focused
+* 🎨 Modern interactive UI
+* 🚀 Performance-conscious architecture
 
-🔗 **[View Project](https://github.com/Varshith-kummarikunta/beyond-horizon)**
+<p>
+  <a href="https://github.com/Varshith-kummarikunta/beyond-horizon">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-## 🤖 AI Resume Matcher
+### 🤖 AI Resume Matcher
 
-> An AI-powered Chrome Extension that analyzes resumes against job descriptions.
+**An AI-powered Chrome Extension that analyzes resumes against job descriptions and generates actionable insights.**
 
-**Built with**
+`React` `Node.js` `Express` `Groq AI` `Manifest V3`
 
-`React.js` `Node.js` `Express.js` `Groq AI` `Manifest V3`
-
-### Highlights
+**Highlights**
 
 * 📄 Resume & job description analysis
-* 🤖 LLM-powered resume insights
+* 🤖 LLM-powered insights
 * 🎯 ATS compatibility analysis
-* 🔍 Keyword and skill matching
+* 🔍 Keyword & skill matching
 * 💡 Personalized recommendations
 * 📊 Interview probability insights
 * 📑 PDF report generation
 * 🧩 Chrome Runtime Messaging
 * ⚙️ Background Service Workers
-* ☁️ Railway backend deployment
+* ☁️ Railway deployment
 
-🔗 **[GitHub](https://github.com/Varshith-kummarikunta/AI-Resume-Matcher-Chrome-Extension)**
-🎥 **[Preview](https://drive.google.com/file/d/1TcZ44yC6a6Ku2NlEz5rR5mqnC8XqYRWQ/view)**
+<p>
+  <a href="https://github.com/Varshith-kummarikunta/AI-Resume-Matcher-Chrome-Extension">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://drive.google.com/file/d/1TcZ44yC6a6Ku2NlEz5rR5mqnC8XqYRWQ/view">
+    <img src="https://img.shields.io/badge/Preview-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## ♟️ Real-Time Multiplayer Chess
+### ♟️ Real-Time Multiplayer Chess
 
-> A multiplayer chess platform with real-time gameplay and synchronized moves.
+**A multiplayer chess platform with synchronized gameplay, authentication, leaderboards, and real-time communication.**
 
-**Built with**
+`React` `Node.js` `Express` `MongoDB` `Socket.IO` `WebSockets` `chess.js`
 
-`React.js` `Node.js` `Express.js` `MongoDB` `Socket.IO` `WebSockets` `chess.js`
-
-### Highlights
+**Highlights**
 
 * ♟️ Real-time multiplayer gameplay
 * ⚡ Live move synchronization
-* ✅ Chess move validation
+* ✅ Server-side move validation
 * 🔐 JWT authentication
-* 🔒 bcrypt password hashing
+* 🔒 Secure password hashing
 * 🏆 Leaderboard system
 * 👤 User profiles
 * 🖼️ Cloudinary image uploads
 * ☁️ MongoDB Atlas
 * 🚀 Vercel + Render deployment
 
-🔗 **[GitHub](https://github.com/Varshith-kummarikunta/Chess-Game)**
-🎮 **[Play Online](https://play-chess-online.vercel.app/)**
+<p>
+  <a href="https://github.com/Varshith-kummarikunta/Chess-Game">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://play-chess-online.vercel.app/">
+    <img src="https://img.shields.io/badge/Play_Online-58A6FF?style=for-the-badge&logo=google-play&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📸 Instagram Clone
+### 📸 Instagram Clone
 
-> A full-stack social media application built with the MERN stack.
+**A full-stack social media platform built with the MERN stack.**
 
-**Built with**
+`React` `Node.js` `Express` `MongoDB` `JWT` `Tailwind CSS`
 
-`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Tailwind CSS`
+**Highlights**
 
-### Highlights
-
-* 👤 Authentication
-* 📝 Create, update & delete posts
+* 👤 User authentication
+* 📝 Post creation & management
 * ❤️ Likes
 * 💬 Comments
 * 🖼️ Image uploads
 * ☁️ Cloudinary storage
 * 🔐 JWT authentication
 * 🔄 REST APIs
-* 📱 Responsive UI
+* 📱 Responsive interface
 * 🚀 Production deployment
 
-🔗 **[GitHub](https://github.com/Varshith-kummarikunta/instagram-clone)**
-🌐 **[Live Demo](https://instagram-clone-two-ashy.vercel.app/)**
+<p>
+  <a href="https://github.com/Varshith-kummarikunta/instagram-clone">
+    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram-clone-two-ashy.vercel.app/">
+    <img src="https://img.shields.io/badge/Live_Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-# 🛠️ Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,html,css" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,vite" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Database & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,vercel,render" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
-</p>
-
-### AI & Browser Development
-
-```text
-Groq AI
-LLM Integration
-Prompt Engineering
-PDF Parsing
-Chrome Extension Manifest V3
-Chrome Storage API
-Runtime Messaging
-Background Service Workers
-```
-
----
-
-# 📊 GitHub Stats
+# 🛠️ Technologies I Use
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varshith-kummarikunta&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith-kummarikunta&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+
+<img src="https://skillicons.dev/icons?i=js,python,html,css,react,redux,tailwind,vite,nodejs,express,mongodb,mysql,git,github,postman,vscode,vercel" />
+
+</p>
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Varshith-kummarikunta&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varshith-kummarikunta&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Varshith-kummarikunta&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Varshith-kummarikunta&theme=tokyonight&hide_border=true" width="70%" />
 </p>
 
 ---
 
-# 🎯 Currently Exploring
-
-```text
-01  Advanced React Patterns
-02  Scalable Backend Architecture
-03  AI / LLM Application Development
-04  Real-Time Systems
-05  System Design
-06  Data Structures & Algorithms
-```
-
----
-
-# 🧩 Developer Mindset
+# 🧠 My Development Philosophy
 
 ```js
 const workflow = [
@@ -259,7 +255,7 @@ const workflow = [
     "Build a solution",
     "Break the solution",
     "Debug everything",
-    "Make it better",
+    "Improve it",
     "Ship it 🚀"
 ];
 
@@ -268,18 +264,34 @@ workflow.forEach(step => console.log(step));
 
 ---
 
+# 🎯 2026 Learning Path
+
+```text
+01  ⚛️ Advanced React Patterns
+02  ⚙️ Scalable Backend Architecture
+03  🤖 AI / LLM Application Development
+04  ⚡ Real-Time Systems
+05  🏗️ System Design
+06  🧠 Data Structures & Algorithms
+```
+
+---
+
 # 🎓 Education
 
 **B.Tech — Computer Science & Engineering**
+
 Teegala Krishna Reddy Engineering College, Hyderabad
-**2021 – 2025**
+`2021 – 2025`
 
 ---
 
 # 📜 Certifications
 
-* 🎓 **MERN Full Stack Development** — AccioJob Skill Center
-* 📜 **JavaScript Programming** — GeeksforGeeks
+| Certification                  | Issuer                |
+| ------------------------------ | --------------------- |
+| 🎓 MERN Full Stack Development | AccioJob Skill Center |
+| 📜 JavaScript Programming      | GeeksforGeeks         |
 
 ---
 
@@ -288,19 +300,19 @@ Teegala Krishna Reddy Engineering College, Hyderabad
 <p align="center">
 
 <a href="https://github.com/Varshith-kummarikunta">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/varshith-kummarikunta-067253328/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://varshith-kummarikunta.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/varshith_kummarikunta/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </p>
